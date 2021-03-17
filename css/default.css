@@ -1,0 +1,38 @@
+body{
+    font-family: "Comic Sans MS";
+    background-color: deeppink;
+    color: white;
+}
+
+.clearfix{
+    clear:both;
+}
+
+.container{
+    margin: auto;
+    width: 60%;
+    border: 1px dotted deeppink;
+    border-right: 0px;
+    border-left: 0px;
+    padding: 10px;
+}
+
+ul.ponys {
+	min-width: 300px;
+	list-style: none;
+	padding-top: 20px;
+}
+
+ul.ponys li {
+   float:left;
+}
+
+ul.ponys li figure img{
+    text-align: center;
+} 
+
+ul.ponys li figure figcaption {
+    text-align: center;
+    font-size: 150%;
+
+} 
