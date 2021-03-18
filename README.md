@@ -23,7 +23,7 @@ nickname:host~$ git config --global user.name "Boris Sauvage"
 ```console
 nickname:host~$ git config --global user.email "email@website.fr
 ```
-2. Se placer depuis ce dossier avec Git Bash **([-> informations sur git init](https://git-scm.com/book/fr/v2/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git))**
+2. Se placer dans le dossier avec Git Bash **([-> informations sur git init](https://git-scm.com/book/fr/v2/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git))**
 
 ```console
 nickname:host~$ git init
