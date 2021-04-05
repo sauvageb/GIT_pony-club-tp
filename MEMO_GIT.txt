@@ -1,0 +1,65 @@
+Initialisation des projets :
+#) Git Clone
+- Récupérer/Télécharger un dépot distant sur notre machine locale
+
+#) Git init
+- Iniatiliser un dossier comme étant un dépot local (création du .git)
+
+
+Voir l'etat des fichiers :
+#) git status 
+- Visualiser les modifications/l'etat de notre dépot local actuel
+
+#) git log
+- Affiche l'historique des commits sur la branche courante
+
+#) git diff
+- Affiche les différences entre deux versions de fichier ou commit
+
+Préparation des fichiers à enregistrer :
+#) git add 
+- Préparer les fichiers pour être commit
+
+#) git commit -m "mon message expliquant les modifications effectuées"
+- Enregistre les changements des fichiers ajoutés avec git add
+
+Envoi et la récéption :
+#) git push
+- Pousse/Envoie de nos commits vers notre dépôt distant
+
+#) git fetch
+- Récupère l'historique du dépôt distant
+
+#) git pull
+- Récupére les changements provenant de notre dépôt distant
+
+Gestion des branches :
+#) git merge autreBranche
+- Fusionner ma branche avec une autre branche
+
+#) git branch
+- Voir les branches
+
+#) git branch maBranche
+- Créée une branche maBranche
+
+#) git checkout maBranche
+- Bascule sur la branche maBranche
+
+#) (Raccourci =>) git checkout -b maBranche
+- Créée une branche maBranche et bascule dessus
+
+#) git branch -d maBranche
+- Supprime la branche maBranche
+
+Configuration du remote origin du projet :
+
+#) Configure l'url de mon dépot distant au sein de 
+la configuration de mon dépot local
+- git remote add origin MON_URL
+
+#) Supprime l'url de mon dépot distant au sein de 
+la configuration de mon dépot local
+- git remote rm origin
+
+
