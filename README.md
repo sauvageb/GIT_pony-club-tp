@@ -10,7 +10,7 @@ Exercice pour Débuter avec Git et Github
 2.  Récupérer ce projet en téléchargeant le zip. en mettant son contenu dans un dossier PONY_CLUB, dans vos documents
 3.  Les ressources images seront disponibles sur la branche ressources
 4.  Lancer le terminal git bash
-5.  Utilisez l'aide mémoire des commandes git (https://github.com/sauvageb/pony-club-tp/github-git-cheat-sheet.pdf)
+5.  Utilisez l'aide mémoire des commandes git (https://github.com/sauvageb/pony-club-tp/blob/master/github-git-cheat-sheet.pdf)
 6.  En cas de blocage, vous pouvez consultez les ressources en bas de l'exercice
 
 ## II. Les bases
