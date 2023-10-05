@@ -63,11 +63,13 @@ Exercice pour Débuter avec Git et Github
 
 11. Encore une fois, rajouter un dernier little pony :
 
-12. Basculer sur votre branche principale (main ou master)
+12. Indexer vos fichiers modifiés et Valider vos modifications
 
-13. Ouvrez votre fichier html avec un navigateur et regardez la page
+13. Basculer sur votre branche principale (main ou master)
 
-14. Inspecter les modifications entre master et votre branche
+14. Ouvrez votre fichier html avec un navigateur et regardez la page
+
+15. Inspecter les modifications entre master et votre branche
 
 ## IV. Fusion d'une branche sur la branche master
 
