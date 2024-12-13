@@ -153,9 +153,10 @@ Pour enregistrer un message de merge avec vim, utilisez :wq
 
 1. Renseignez-vous sur les Github Pages (https://pages.github.com/) 
 
-2. Retourner sur votre projet Pony Club et activer les Github Pages
+2. Retourner sur votre projet Pony Club et activer les Github Pages (Settings/Pages)
 
-3. Mettre en ligne votre dépôt distant avec une url comme celle-ci : http://*username*.github.io/*remote_repository*/
+3. Mettre en ligne votre dépôt distant. Sinon, refaite un commit/push pour activer le déploiement.
+   Votre url sera visible dans les paramètres (http://*username*.github.io/*remote_repository*/)
 
 **Félicitations, vous avez acquis les bases de Git et Github !** 
 
